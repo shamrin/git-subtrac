@@ -13,7 +13,7 @@ git push origin master master.trac
 cd ..
 ```
 
-Another contribor clones parent repo and makes local change in a submodule:
+Another contributor clones parent repo and makes local change in a submodule:
 
 ```sh
 git clone --recurse-submodules git@example.com:example/parent.git another-parent
